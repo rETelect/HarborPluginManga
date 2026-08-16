@@ -1,0 +1,23 @@
+{
+  "name": "Harbor Manga Repository",
+  "plugins": [
+    {
+      "id": "mangadex-source",
+      "name": "MangaDex",
+      "version": "1.0.1",
+      "lang": "en",
+      "nsfw": false,
+      "icon": "https://mangadex.org/favicon.ico",
+      "entry": "mangadex.plugin.js"
+    },
+    {
+      "id": "toonily-source",
+      "name": "Toonily",
+      "version": "1.0.0",
+      "lang": "en",
+      "nsfw": true,
+      "icon": "https://toonily.com/favicon.ico",
+      "entry": "toonily-source.js"
+    }
+  ]
+}
