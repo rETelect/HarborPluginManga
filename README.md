@@ -9,8 +9,8 @@ This project is built with a **Multisrc Template Architecture**, which means we 
 2. Navigate to the **Extensions** or **Plugins** section.
 3. Look for **"Add a repository"** or **"Bring your own extensions"**.
 4. Paste the URL of the repository:
-   - For local testing: `http://localtest.me:7000/repo.json`
-   - For GitHub Pages (once deployed): `https://<your-username>.github.io/<your-repo-name>/repo.json`
+   - For local testing: `http://localhost:7000/repo.json`
+   - For GitHub Pages (Live): `https://rEtelect.github.io/HarborPluginManga/public/repo.json`
 5. Click **Add**. You will now see a list of available manga sources (like MangaDex, Toonily, etc.).
 6. Click **Install** on your favorite sources and enjoy reading!
 
